@@ -5,6 +5,9 @@
 ### the third heading
 This project is for some notes!
 
+[Abdallah's Page](https://bashar-alasmar.github.io/reading-notes/abdallah)
+
+[Jana's Page](https://bashar-alasmar.github.io/reading-notes/jana)
 
 #### this is heading 4 
 _Nuras **Addition**_
