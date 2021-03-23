@@ -1,0 +1,4 @@
+# Janas page
+
+
+## Growth Mindset 
